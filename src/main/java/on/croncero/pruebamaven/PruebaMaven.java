@@ -33,6 +33,8 @@ public class PruebaMaven {
         v[1][1]=3;
         v[2][0]=8;
         v[2][1]=1;
+        v[2][1]=1;
+        v[2][1]=1;
         System.out.println("La media aritmética es = " + mediaPonderada(v,3)); 
     }
 }
